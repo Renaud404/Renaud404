@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Renaud404
 - 👀 I’m interested in PHP/LARAVEL/SOLIDITY/KOTLIN
 - 🌱 I’m currently learning KOTLIN
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on good idea
 <!---- 📫 How to reach me ...
 
 
